@@ -9,7 +9,7 @@ Entre meus principais projetos no github, que vale a pena conferir estão:
 
 ### Redes Sociais
 <div style="display: flex">
-  <a href="https://pt-pt.facebook.com/tais.spadotin"><img style="width: 40px; height: 40px;" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202110facebooklogosocialsocialmedia-115707_115594.png"/></a>
-  <a href="https://www.instagram.com/taisspadotin/" ><img style="width: 40px; height: 40px;" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"/></a>
-  <a href="https://br.linkedin.com/in/ta%C3%ADs-spadotin-032b30178"><img style="width: 40px; height: 40px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
+  <a href="https://pt-pt.facebook.com/tais.spadotin" style="margin-right: 5px;"><img style="width: 35px; height: 35px;" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202110facebooklogosocialsocialmedia-115707_115594.png"/></a>
+  <a href="https://www.instagram.com/taisspadotin/" style="margin-right: 5px;"><img style="width: 35px; height: 35px;" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"/></a>
+  <a href="https://br.linkedin.com/in/ta%C3%ADs-spadotin-032b30178" style="margin-right: 5px;"><img style="width: 35px; height: 35px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
 </div>
