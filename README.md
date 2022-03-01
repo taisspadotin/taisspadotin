@@ -9,7 +9,7 @@ Entre meus principais projetos no github, que vale a pena conferir estão:
 
 ### Redes Sociais
 <div style="display: flex">
-  <a href="https://pt-pt.facebook.com/tais.spadotin" style="background: #38548f; width: 100px; height: 40px; border-radius: 4px; color: #fff; display: flex; justify-content: center; align-items: center;">Facebook</a>
-  <a href="https://www.instagram.com/taisspadotin/" style="background: #f21858; width: 100px; height: 40px; border-radius: 4px color: #fff; display: flex; justify-content: center; align-items: center;">Instagram</a>
-  <a href="https://br.linkedin.com/in/ta%C3%ADs-spadotin-032b30178" style="background: #0961b8; width: 100px; height: 40px; border-radius: 4px color: #fff; display: flex; justify-content: center; align-items: center;">Linkedin</a>
+  <a href="https://pt-pt.facebook.com/tais.spadotin"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202110facebooklogosocialsocialmedia-115707_115594.png"/></a>
+  <a href="https://www.instagram.com/taisspadotin/" ><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"/></a>
+  <a href="https://br.linkedin.com/in/ta%C3%ADs-spadotin-032b30178"><img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png"/></a>
 </div>
